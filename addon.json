@@ -1,0 +1,10 @@
+{
+	"title"		: "SpriteCore",
+	"type"		: "tool",
+	"tags"		: [ "build", "fun" ],
+	"ignore"	: [
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
